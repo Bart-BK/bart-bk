@@ -1,14 +1,22 @@
+<div>
+<img align="left" width="40%" height="100%" src="assets/octocat_bk.png" alt="My Octocat">
+</div>
+
+<div> 
+  
 # Prabhat Kumar de Oliveira :man_technologist:
 
 ### Hi everyone 👋
-[![Github Badge](https://img.shields.io/badge/-prabhatkoliveira-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/bart-bk)](https://github.com/bart-bk)
-[![Linkedin Badge](https://img.shields.io/badge/-prabhatkoliveira-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhatkoliveira/)](https://www.linkedin.com/in/prabhatkoliveira/)
-[![Lattes Badge](https://img.shields.io/badge/-prabhatkoliveira-green?style=for-the-badge&logo=Iconify&logoColor=white&link=http://lattes.cnpq.br/4758718252866845)](http://lattes.cnpq.br/4758718252866845)
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/bart-bk)](https://github.com/bart-bk)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prabhatkoliveira/)](https://www.linkedin.com/in/prabhatkoliveira/)
+[![Lattes Badge](https://img.shields.io/badge/-Lattes-green?style=for-the-badge&logo=Iconify&logoColor=white&link=http://lattes.cnpq.br/4758718252866845)](http://lattes.cnpq.br/4758718252866845)
 
-- 🌱 Currently reinforcing AI learning through application in different areas
-- 🔭 Deepening knowledge in the areas of Data Science and Artificial Intelligence
-- ⚡  Has experience with Data Science, Artificial Intelligence and Computer Vision
+- ✍🏾 Deepening knowledge in the areas of Data Science and Artificial Intelligence
+- 🌱 Always learning and practicing, after all this is how knowledge is built
+- 💼 Has experience with Data Science, Artificial Intelligence and Computer Vision
+- 🔭 What is the limit of our creativity?
 
+</div>
 ---
 
 3 Latest certificates
