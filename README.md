@@ -20,7 +20,7 @@
 
 ---
 
-3 Latest certificates
+Learning courses
 
 [![Coursera Badge](https://img.shields.io/badge/-NN%20and%20DL-blue?style=for-the-badge&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/certificate/JDR4ZAY8M23W)](https://www.coursera.org/account/accomplishments/certificate/JDR4ZAY8M23W)
 [![Coursera Badge](https://img.shields.io/badge/-AI%204%20Everyone-blue?style=for-the-badge&logo=Coursera&logoColor=white&link=https://www.coursera.org/account/accomplishments/certificate/QHGUD5ULSZTL)](https://www.coursera.org/account/accomplishments/certificate/QHGUD5ULSZTL)
