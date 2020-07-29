@@ -1,5 +1,5 @@
 <div>
-<img align="left" width="40%" height="100%" src="assets/octocat_bk.png" alt="My Octocat">
+<img align="left" width="40%" height="100%" src="https://github.com/Bart-BK/bart-bk/blob/master/assets/octocat_bk.png" alt="My Octocat">
 </div>
 
 <div> 
